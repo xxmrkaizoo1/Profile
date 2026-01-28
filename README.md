@@ -2,57 +2,101 @@
 
 # 👋 Hi, I'm xxmrkaizoo
 
-🎓 **Student**  
-💻 **Web Developer** (Laravel • PHP • JavaScript)  
-🚀 Building practical student projects  
-🔍 Exploring **AI** & **Cybersecurity**
-
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-I am a Software Engineering student who enjoys building real-world systems and learning how software works behind the scenes.  
-My main focus is **backend web development**, especially using **Laravel** and **PHP**.  
-I like turning ideas into working projects and improving my coding skills step by step.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Profile
+- **Student** (Software Engineering)  
+- **Web Developer**  
+- Laravel • PHP • JavaScript  
+- Interested in **AI, IoT & Cybersecurity**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Focus
+- Backend Web Development  
+- Practical Student Projects  
+- Real-world System Design  
+- Learning by building
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🧑‍💻 About Me
+I am a Software Engineering student who enjoys building real-world systems and learning how software works behind the scenes.  
+My main focus is backend web development using Laravel and PHP, and I also enjoy working on IoT-based projects that combine hardware and software.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠 Tech Stack
 - **Backend:** Laravel, PHP  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Database:** MySQL  
-- **Other:** Basic Python, Git & GitHub  
+- **IoT:** ESP32, Sensors  
+- **Other:** Python (basic), Git & GitHub  
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Goals
+- Improve backend & database skills  
+- Build more IoT systems  
+- Learn AI fundamentals  
+- Explore cybersecurity  
+- Prepare for internship  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Projects
-- **E-Health System**  
-  Student health record and approval system built with Laravel.
+<table>
+<tr>
+<td width="100%" valign="top">
 
-- **AI Chat Student**  
-  A simple AI-based chatbot project using Python for learning purposes.
+### 📌 Featured Projects
+- **E-Health System** – Laravel-based student health record system  
+- **AI Chat Student** – Simple AI chatbot using Python  
+- **IoT Water Plant System** – ESP32-based monitoring & automation  
+- **Mini Projects** – Blade, PHP & JavaScript practice projects  
 
-- **Mini Projects**  
-  Small practice projects using Blade, PHP, and JavaScript.
-
----
-
-## 🎯 Current Goals
-- Strengthen backend and database skills  
-- Learn more about AI fundamentals  
-- Explore cybersecurity concepts  
-- Prepare for internship and real-world experience  
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/xxmrkaizoo
+<table>
+<tr>
+<td width="100%" align="center">
 
----
+### 📫 Contact
+GitHub: https://github.com/xxmrkaizoo  
 
-<div align="center">
+✨ *Always learning, always improving.*
 
-✨ *Always learning, always improving.* ✨
-
-</div>
+</td>
+</tr>
+</table>
