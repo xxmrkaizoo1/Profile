@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm xxmrkaizoo
 
-🎓 **Software Engineering Student**  
+🎓 **Student**  
 💻 **Web Developer** (Laravel • PHP • JavaScript)  
 🚀 Building practical student projects  
 🔍 Exploring **AI** & **Cybersecurity**
