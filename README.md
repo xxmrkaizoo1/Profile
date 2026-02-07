@@ -7,9 +7,9 @@
 </div>
 
 
-#👋 Hi, I'm xxmrkaizoo 👋
+👋 Hi, I'm xxmrkaizoo 👋
 
-🟦 **Technology Computer  Student**  
+🟦 **Computer Technology  Student**  
 🟩 **Web Developer** (Laravel • PHP • JavaScript • Node.js)  
 🟨 **AI • IoT • Cybersecurity • Linux Enthusiast**
 
