@@ -144,7 +144,7 @@ These modules focus on **training models with data**, **processing inputs**, and
 <td width="100%" align="center">
 
 ### 🟧 Contact
-🔗 GitHub: https://github.com/xxmrkaizoo  
+🔗 GitHub: https://github.com/xxmrkaizoo1  
 
 ✨ **Always learning, always improving.** ✨
 
