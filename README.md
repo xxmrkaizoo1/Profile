@@ -131,7 +131,7 @@ These modules focus on **training models with data**, **processing inputs**, and
 🔹 **AI Chat Student** – Local AI chatbot using Ollama & Python  
 🔹 **IoT Water Plant System** – ESP32-based monitoring & automation  
 🔹 **Mini Full-Stack Projects** – Laravel, Node.js, Tailwind CSS  
-🔹 **ManyMore!!  
+🔹 **ManyMore!!**  
 
 </td>
 </tr>
