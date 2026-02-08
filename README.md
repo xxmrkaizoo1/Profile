@@ -12,9 +12,12 @@
 
 <!-- NAME -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=00FF99&center=true&vCenter=true&width=500&lines=%24+whoami;xxmrkaizoo;Access+Granted"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=420&lines=Hi%2C+I%27m+xxmrkaizoo!" />
+</p>
+
+<!-- ROLES -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Backend+Developer;AI+%7C+IoT+%7C+Cybersecurity;Linux+Enjoyer" />
 </p>
 
 
