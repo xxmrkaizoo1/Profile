@@ -1,16 +1,26 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ccff,100:ff00ff&height=170&section=header&text=xxmrkaizoo&fontSize=42&fontColor=ffffff&animation=twinkling" />
+
 <img src="https://github.com/xxmrkaizoo1.png" width="150" style="border-radius:50%;" />
 
 ## 👋 Hi, I'm xxmrkaizoo!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Technology+Student;Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity+Learner;Always+learning+something+new+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Computer+Technology+Student;Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity+Learner;Linux+Enjoyer+%F0%9F%90%A7;Always+learning+something+new+%F0%9F%9A%80" />
 
 🟦 **Computer Technology Student**  
 🟩 **Web Developer** (Laravel • PHP • JavaScript • Node.js)  
 🟨 **AI • IoT • Cybersecurity • Linux Enthusiast**
 
-<img src="https://komarev.com/ghpvc/?username=xxmrkaizoo1&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=xxmrkaizoo1&style=for-the-badge&color=blueviolet" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -39,14 +49,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-
 </div>
+
+---
+
 <div align="center">
-  
+
+### 🔥 Activity Streak (Animation)
 ![GitHub Streak](https://streak-stats.demolab.com?user=xxmrkaizoo1&theme=tokyonight&hide_border=true)
 
 </div>
-
 
 ---
 
@@ -72,13 +84,6 @@ I also explore **IoT projects** and experiment with **local AI tools** like **Ol
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-<div align="center">
-
 
 ---
 
@@ -158,6 +163,7 @@ Tools I explore:
 🔗 GitHub: https://github.com/xxmrkaizoo1  
 
 ✨ **Always learning, always improving.** ✨  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ccff,100:ff00ff&height=120&section=footer&animation=twinkling" />
 
 </div>
