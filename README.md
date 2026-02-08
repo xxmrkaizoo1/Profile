@@ -19,10 +19,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-    width="60"
-    style="animation: spin 2s linear infinite;" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" />
 </p>
 
 
