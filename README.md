@@ -2,10 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ccff,100:ff00ff&height=170&section=header&text=xxmrkaizoo&fontSize=42&fontColor=ffffff&animation=twinkling" />
 
-<img src="https://github.com/xxmrkaizoo1.png" width="150" style="border-radius:50%;" />
+
+
+
 
 ## 👋 Hi, I'm xxmrkaizoo!
-
+<img src="https://github.com/xxmrkaizoo1.png" width="150" style="border-radius:50%;" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Computer+Technology+Student;Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity+Learner;Linux+Enjoyer+%F0%9F%90%A7;Always+learning+something+new+%F0%9F%9A%80" />
 
 🟦 **Computer Technology Student**  
