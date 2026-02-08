@@ -1,31 +1,46 @@
+<!-- RGB HACKER HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ccff,100:ff00ff&height=170&section=header&text=xxmrkaizoo&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </div>
 
+<!-- PROFILE PIC CENTER -->
 <p align="center">
-  <img src="https://github.com/xxmrkaizoo1.png" width="150" style="border-radius:50%;" />
+  <img src="https://github.com/xxmrkaizoo1.png"
+       width="150"
+       style="border-radius:50%; border:3px solid #00ff99;" />
 </p>
 
+<!-- NAME -->
 <h2 align="center">👋 Hi, I'm xxmrkaizoo!</h2>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Computer+Technology+Student;Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity+Learner;Linux+Enjoyer+%F0%9F%90%A7;Always+learning+something+new+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Computer+Technology+Student;Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity+Learner;Linux+Enjoyer+🐧;Always+learning+something+new+🚀" />
 </p>
 
+<!-- SHORT BIO -->
 <p align="center">
   🟦 <b>Computer Technology Student</b><br/>
   🟩 <b>Web Developer</b> (Laravel • PHP • JavaScript • Node.js)<br/>
   🟨 <b>AI • IoT • Cybersecurity • Linux Enthusiast</b>
 </p>
 
+<!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xxmrkaizoo1&style=for-the-badge&color=blueviolet" />
 </p>
+
 ---
 
+<!-- SNAKE ANIMATION -->
 <div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-### 🧰 Tech Badges
+---
+
+## 🧰 Tech Badges
+<div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
@@ -50,9 +65,9 @@
 
 ---
 
+## 🔥 Activity Streak
 <div align="center">
 
-### 🔥 Activity Streak (Animation)
 ![GitHub Streak](https://streak-stats.demolab.com?user=xxmrkaizoo1&theme=tokyonight&hide_border=true)
 
 </div>
@@ -89,17 +104,11 @@ I also explore **IoT projects** and experiment with **local AI tools** like **Ol
 <td width="100%" valign="top">
 
 ### 🤖 AI & Machine Learning (Student Level)
-I build **basic AI/ML modules** as part of my learning journey.  
-These modules focus on:
-- simple **training workflows**
-- preparing datasets
-- supervised learning basics
-- saving & reusing trained models
-- integrating with web apps (Laravel / Node.js)
-
-Tools I explore:
-- **Python (basic)**  
-- local AI experimentation using **Ollama**  
+- Simple training workflows  
+- Dataset preparation  
+- Supervised learning basics  
+- Model reuse & integration  
+- Web integration (Laravel / Node.js)
 
 </td>
 </tr>
@@ -115,19 +124,17 @@ Tools I explore:
 🔴 Backend: Laravel, PHP, Node.js  
 🟡 Frontend: HTML, CSS, JavaScript, Tailwind  
 🔵 Database: MySQL  
-🟢 AI Tools: Ollama (local LLM)  
-🟣 IoT: ESP32 + sensors (basic)  
+🟢 AI Tools: Ollama  
+🟣 IoT: ESP32 (basic)  
 ⚫ OS: Linux, Windows  
-🟤 Others: Git & GitHub  
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Current Goals
 ✅ Improve backend & API skills  
-✅ Build full-stack apps (Laravel + React / Node)  
-✅ Create small AI projects using Ollama  
-✅ Build more IoT systems  
+✅ Build full-stack apps  
+✅ Create AI projects  
 ✅ Strengthen Linux knowledge  
 ✅ Prepare for internship  
 
@@ -142,11 +149,11 @@ Tools I explore:
 <td width="100%" valign="top">
 
 ### 🟪 Featured Projects
-🔹 **E-Health System** – Laravel-based student health record system  
-🔹 **AI Chat Student** – Local AI chatbot using Ollama & Python  
-🔹 **IoT Water Plant System** – ESP32 monitoring & automation  
-🔹 **Mini Full-Stack Projects** – Laravel, Node.js, Tailwind CSS  
-🔹 **More coming soon...** 🚀
+🔹 E-Health System (Laravel)  
+🔹 AI Chat Student (Ollama + Python)  
+🔹 IoT Water Plant System (ESP32)  
+🔹 Mini Full-Stack Projects  
+🔹 More coming soon 🚀  
 
 </td>
 </tr>
