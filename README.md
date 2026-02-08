@@ -13,10 +13,11 @@
 <!-- NAME -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=350&color=00FF99&center=true&vCenter=true&width=700&lines=%24+w%40o%7Cami;%24+wh0a%7Cmi;%24+wh%23ami;xxmrk%40izoo;xxmrmka%7Czoo;xxmrkaizoo;%5BERR%5D+AC%23%23ESS;%5BOK%5D+ACCESS+GRANTED"
-    alt="Aggressive Glitch Terminal"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=150&color=00FF99&center=true&vCenter=true&width=720&lines=%24+w%40%7C0%40mi;%24+wh%23%7Cmi;%24+wh0a%7Cmi;%24+wh%40%240mi;xxm%40%7Ck%40izoo;xxmrk%40%7Cz00;xxmrmk%23izoo;xxmrkaizoo;%5BERR%5D+AC%23%23ESS;%5BOK%5D+ACCESS+GRANTED"
+    alt="Ultra Fast Glitch Terminal"
   />
 </p>
+
 
 
 
