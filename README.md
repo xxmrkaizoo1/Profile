@@ -18,6 +18,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Computer+Technology+Student;Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity+Learner;Linux+Enjoyer;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+    width="60"
+    style="animation: spin 2s linear infinite;" />
+</p>
+
+
 
 <!-- SHORT BIO -->
 <p align="center">
