@@ -12,13 +12,12 @@
 
 <!-- NAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=420&lines=Hi%2C+I%27m+xxmrkaizoo!" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=600&color=00FF99&center=true&vCenter=true&width=620&lines=%24+whoami;%24+whoa%7Cami;%24+wh0ami;xxmrkaizoo;xxmrmkaizoo;xxmrkaizoo;Acc3ss+Granted;Access+Granted"
+    alt="Glitch Terminal"
+  />
 </p>
 
-<!-- ROLES -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Backend+Developer;AI+%7C+IoT+%7C+Cybersecurity;Linux+Enjoyer" />
-</p>
 
 
 <!-- TYPING ANIMATION -->
